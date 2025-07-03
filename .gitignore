@@ -11,3 +11,13 @@ opentelemetry-javaagent*.jar
 grafana-opentelemetry*.jar
 build/
 
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
